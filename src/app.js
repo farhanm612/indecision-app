@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Indecision from './components/IndecisionApp.js'
+import 'normalize.css/normalize.css';
+import './styles/styles.scss'
 
 const Layout = () => {
     return (
